@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWorkflow.Console", "AppWorkflow.Console \AppWorkflow.Console.csproj", "{42E078C4-1BD4-4FFE-BC11-4C0F881548F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWorkflow.Tests", "AppWorkflow.Tests\AppWorkflow.Tests.csproj", "{44070EDD-D145-4E8B-AC14-ECC8D81A9601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{42E078C4-1BD4-4FFE-BC11-4C0F881548F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42E078C4-1BD4-4FFE-BC11-4C0F881548F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42E078C4-1BD4-4FFE-BC11-4C0F881548F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44070EDD-D145-4E8B-AC14-ECC8D81A9601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44070EDD-D145-4E8B-AC14-ECC8D81A9601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44070EDD-D145-4E8B-AC14-ECC8D81A9601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44070EDD-D145-4E8B-AC14-ECC8D81A9601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
