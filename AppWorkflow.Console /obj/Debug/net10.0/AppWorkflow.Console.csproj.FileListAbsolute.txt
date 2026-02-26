@@ -1,0 +1,14 @@
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /bin/Debug/net10.0/AppWorkflow.Console
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /bin/Debug/net10.0/AppWorkflow.Console.deps.json
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /bin/Debug/net10.0/AppWorkflow.Console.runtimeconfig.json
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /bin/Debug/net10.0/AppWorkflow.Console.dll
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /bin/Debug/net10.0/AppWorkflow.Console.pdb
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/AppWorkflow.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/AppWorkflow.Console.AssemblyInfoInputs.cache
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/AppWorkflow.Console.AssemblyInfo.cs
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/AppWorkflow.Console.csproj.CoreCompileInputs.cache
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/AppWorkflow.Console.dll
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/refint/AppWorkflow.Console.dll
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/AppWorkflow.Console.pdb
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/AppWorkflow.Console.genruntimeconfig.cache
+/Users/babu/Documents/oop-workflow-2026-02-26/oop-workflow-2026-02-26/AppWorkflow.Console /obj/Debug/net10.0/ref/AppWorkflow.Console.dll
